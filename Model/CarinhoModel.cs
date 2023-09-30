@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Sales_System_API.Model
 {
-    public class Carinho
+    public class CarinhoModel
     {
         public int Id {get; set;}
         public int VendaId {get; set;}
